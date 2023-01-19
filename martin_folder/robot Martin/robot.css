@@ -1,0 +1,11 @@
+img {
+  width: 50px;
+}
+#face {
+  width: 400px;
+}
+
+#eyes1, #eyes2{
+  size-adjust: 10px
+  ;
+}
