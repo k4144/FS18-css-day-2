@@ -10,10 +10,12 @@ p {
 }
 li {
     color: #707070;
+    padding-top: 5px;
 }
 .hero {
     background-color: #f4f4f4;
     text-align: center;
+    padding: 10px;
 }
 
 h1 {
@@ -27,6 +29,5 @@ h2 {
   }
 
 h3 {
-    text-align: center;
     color: #474747;
   }
