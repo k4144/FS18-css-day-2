@@ -1,6 +1,7 @@
 .container {
     width: 800px;
-    margin: 0 auto;
+    
+    margin:  auto;
     box-shadow: 5px 0px 5px #ccc, -5px 0px 5px #ccc;
     padding: 50px;
   }
@@ -38,10 +39,11 @@
   .rating {
     color: #F4B400;
     font-size: 25px;
+    text-align: center;
   }
   
   footer {
-    text-align: center;
+    text-align: center  ;
   }
   
   * {
