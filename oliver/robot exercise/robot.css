@@ -2,12 +2,54 @@ img {
   width: 50px;
 }
 #face {
-  width: 400px;
+  width: 300px;
 }
 
 #hat{
-  position:relative
-} 
+  position:relative;
+  right: 1120px;
+  bottom: 260px;
+  width:70px;
+  } 
+  #eyes1{
+    position:relative;
+  right: 220px;
+  bottom: 180px;
+  width:130px;
+  }
+  #eyes2{
+    position:relative;
+  right: 1220px;
+  bottom: 180px;
+  width:130px;
+  }
+  #mouth2{
+    position:relative;
+    right: 530px;
+    bottom: 80px;
+    width:80px;
+
+  }
+  #nose1{
+    position:relative;
+    right: 590px;
+    bottom: 120px;
+    width:40px;
+
+  }
+  #ears1{
+    position:relative;
+    right: 793px;
+    bottom: 140px;
+    width:270px;
+  }
+
+
+
+
+
+
+
 
 
 
