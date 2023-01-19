@@ -4,8 +4,37 @@ img {
 #face {
   width: 400px;
 }
+#hat{
+  position: absolute;
+  top: 60px;
+  left: 180px;
+  width: 100px;
+}
 
-#eyes1, #eyes2{
-  size-adjust: 10px
-  ;
+#eyes1{
+  position: absolute;
+  top: 150px;
+  left: 110px;
+  width: 190px;
+}
+
+#ears1{
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  width: 370px;
+}
+
+#mouth2{
+  position: absolute;
+  top: 330px;
+  left: 180px;
+  width: 100px;
+}
+
+#nose1{
+  position: absolute;
+  top: 260px;
+  left: 180px;
+  width: 50px;
 }
