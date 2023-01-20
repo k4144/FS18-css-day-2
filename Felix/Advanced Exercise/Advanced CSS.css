@@ -40,7 +40,11 @@ nav {
 }
 
 
-/* Site Content/Body */
+/* Site Content/Body-Page1 */
+
+body {
+    background-color: #1C82AD;
+}
 
 #hero {
     text-align: center;
@@ -78,6 +82,128 @@ body {
     font-size: 40px;
     color: #1C82AD;
     font-weight: bold;
+}
+
+
+/* Site Content/Body-Page2 */
+
+
+/* hero1-page2 */
+
+#hero1-page2 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    width: 44%;
+    background-color: darkgray;
+    margin: auto;
+}
+
+#vienna {
+    width: 665px;
+}
+
+#content-page2 {
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+
+#hero1-page2 h2 {
+    font-size: 40px;
+    color: #1C82AD;
+    font-weight: bold;
+    text-align: center;
+}
+
+#hero1-page2 p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    color: white;
+    font-size: 17px;
+}
+
+
+/* hero2-page2 */
+
+#hero2-page2 {
+    text-align: right;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    width: 44%;
+    background-color: darkgray;
+    margin: auto;
+}
+
+#prague {
+    width: 665px;
+    padding-right: 30px;
+}
+
+#content2-page2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+
+#hero2-page2 h2 {
+    font-size: 40px;
+    color: #1C82AD;
+    font-weight: bold;
+    text-align: center;
+}
+
+#hero2-page2 p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    color: white;
+    font-size: 17px;
+}
+
+
+/* hero3-page2 */
+
+#hero3-page2 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    width: 44%;
+    background-color: darkgray;
+    margin: auto;
+}
+
+#barcelona {
+    width: 665px;
+}
+
+#content3-page2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+}
+
+#hero3-page2 h2 {
+    font-size: 40px;
+    color: #1C82AD;
+    font-weight: bold;
+    text-align: center;
+}
+
+#hero3-page2 p {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: justify;
+    color: white;
+    font-size: 17px;
 }
 
 
