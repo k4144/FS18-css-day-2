@@ -11,16 +11,16 @@
 .nav-element {
     float: left;
     width: 20%;
-    height: 60px;
+    height: 100px;
     text-align: center;
     box-sizing: border-box;
-    padding-top: 22px;
+    padding-top: 34px;
     text-decoration: none;
-    margin: 17px;
+    /* margin: 17px; */
     font-weight: bold;
     color: white;
-    border-radius: 15px;
     font-size: 26px;
+    border-right: black 2px solid;
 }
 
 .nav-element:hover {
@@ -32,11 +32,13 @@ nav {
     background-color: darkgray;
     width: 100%;
     position: fixed;
+    height: 100px;
+    border-bottom: black 2px solid;
 }
 
 #picture {
     width: 100px;
-    border: darkgrey 2px solid;
+    border-right: darkgray 2px solid;
 }
 
 
@@ -274,6 +276,10 @@ body {
 #form1 h2 {
     color: #1C82AD;
     font-size: 40px;
+}
+
+#form1 button {
+    color: black;
 }
 
 
