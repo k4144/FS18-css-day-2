@@ -24,12 +24,12 @@
 }
 
 .nav-element:hover {
-    color: #1C82AD;
+    color: #104B64;
 }
 
 nav {
     display: flex;
-    background-color: darkgray;
+    background-color: #777A7D;
     width: 100%;
     position: fixed;
     height: 100px;
@@ -38,14 +38,16 @@ nav {
 
 #picture {
     width: 100px;
-    border-right: darkgray 2px solid;
+    border-right: #777A7D 2px solid;
+    background-color: #104B64;
+    border-right: black 2px solid;
 }
 
 
 /* Site Content/Body-Page1 */
 
 body {
-    background-color: #1C82AD;
+    background-color: #104B64;
     font-family: 'Sofia Sans', sans-serif;
 }
 
@@ -55,7 +57,7 @@ body {
     box-shadow: 0px 0px 10px black;
     width: 60%;
     margin: 0 auto;
-    background-color: darkgrey;
+    background-color: #777A7D;
 }
 
 #content {
@@ -80,7 +82,7 @@ body {
 }
 
 #hero #table a {
-    color: #1C82AD;
+    color: #104B64;
     text-decoration: none;
 }
 
@@ -90,7 +92,7 @@ body {
 
 #hero h2 {
     font-size: 40px;
-    color: #1C82AD;
+    color: #104B64;
     font-weight: bold;
 }
 
@@ -105,7 +107,7 @@ body {
     padding: 20px;
     box-shadow: 0px 0px 10px black;
     width: 44%;
-    background-color: darkgray;
+    background-color: #777A7D;
     margin: auto;
 }
 
@@ -122,7 +124,7 @@ body {
 
 #hero1-page2 h2 {
     font-size: 40px;
-    color: #1C82AD;
+    color: #104B64;
     font-weight: bold;
     text-align: center;
 }
@@ -145,7 +147,7 @@ body {
     padding: 20px;
     box-shadow: 0px 0px 10px black;
     width: 44%;
-    background-color: darkgray;
+    background-color: #777A7D;
     margin: auto;
 }
 
@@ -162,7 +164,7 @@ body {
 
 #hero2-page2 h2 {
     font-size: 40px;
-    color: #1C82AD;
+    color: #104B64;
     font-weight: bold;
     text-align: center;
 }
@@ -185,7 +187,7 @@ body {
     padding: 20px;
     box-shadow: 0px 0px 10px black;
     width: 44%;
-    background-color: darkgray;
+    background-color: #777A7D;
     margin: auto;
 }
 
@@ -201,7 +203,7 @@ body {
 
 #hero3-page2 h2 {
     font-size: 40px;
-    color: #1C82AD;
+    color: #104B64;
     font-weight: bold;
     text-align: center;
 }
@@ -243,7 +245,7 @@ body {
     padding: 20px;
     box-shadow: 0px 0px 10px black;
     width: 44%;
-    background-color: darkgray;
+    background-color: #777A7D;
     margin: auto;
 }
 
@@ -261,7 +263,7 @@ body {
     padding: 20px;
     box-shadow: 0px 0px 10px black;
     width: 44%;
-    background-color: darkgray;
+    background-color: #777A7D;
     margin: auto;
 }
 
@@ -274,7 +276,7 @@ body {
 }
 
 #form1 h2 {
-    color: #1C82AD;
+    color: #104B64;
     font-size: 40px;
 }
 
@@ -290,7 +292,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: darkgrey;
+    background-color: #777A7D;
     border-top: black 1px solid;
 }
 
@@ -301,5 +303,5 @@ footer a {
 }
 
 footer a:hover {
-    color: #1C82AD;
+    color: #104B64;
 }
