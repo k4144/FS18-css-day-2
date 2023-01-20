@@ -50,7 +50,7 @@ body {
     text-align: center;
     padding-top: 20px;
     box-shadow: 0px 0px 10px black;
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     background-color: darkgrey;
 }
@@ -61,21 +61,28 @@ body {
 }
 
 #bild2 {
-    width: 1300px;
+    width: 940px;
 }
 
 body {
     font-family: 'Sofia Sans', sans-serif;
 }
 
-#hero p {
+#hero #table {
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 30px;
     padding-right: 30px;
     text-align: justify;
     color: white;
-    font-size: 17px;
+    font-size: 25px;
+    display: inline-block;
+    text-align: left;
+}
+
+#hero #table a {
+    color: #1C82AD;
+    text-decoration: none;
 }
 
 #hero h2 {
@@ -204,6 +211,42 @@ body {
     text-align: justify;
     color: white;
     font-size: 17px;
+}
+
+
+/* Site Content/Body-Page3 */
+
+.contactperson .portät {
+    width: 230px;
+    border: black 2px solid;
+    border-radius: 25px;
+}
+
+#content-page3 {
+    padding-top: 130px;
+}
+
+#content2-page3 {
+    padding-top: 30px;
+}
+
+#content3-page3 {
+    padding-top: 30px;
+    padding-bottom: 45px;
+}
+
+.contactperson {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    width: 44%;
+    background-color: darkgray;
+    margin: auto;
+}
+
+.contactperson table {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
