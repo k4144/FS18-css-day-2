@@ -44,6 +44,7 @@ nav {
 
 body {
     background-color: #1C82AD;
+    font-family: 'Sofia Sans', sans-serif;
 }
 
 #hero {
@@ -64,10 +65,6 @@ body {
     width: 940px;
 }
 
-body {
-    font-family: 'Sofia Sans', sans-serif;
-}
-
 #hero #table {
     padding-top: 5px;
     padding-bottom: 5px;
@@ -83,6 +80,10 @@ body {
 #hero #table a {
     color: #1C82AD;
     text-decoration: none;
+}
+
+#hero #table a:hover {
+    color: white;
 }
 
 #hero h2 {
@@ -247,6 +248,32 @@ body {
 .contactperson table {
     margin-left: auto;
     margin-right: auto;
+    color: white;
+}
+
+
+/* Site Content/Body-Page4 */
+
+#form1 {
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 10px black;
+    width: 44%;
+    background-color: darkgray;
+    margin: auto;
+}
+
+#content-page4 {
+    padding-top: 145px;
+}
+
+#form1 div {
+    color: white;
+}
+
+#form1 h2 {
+    color: #1C82AD;
+    font-size: 40px;
 }
 
 
